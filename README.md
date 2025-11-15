@@ -95,7 +95,7 @@ A productivity powerhouse that gamifies goal achievement across departments.
 
 ---
 
-### 📱 [QR Code Attendance System](https://github.com/yourusername/qr-attendance-system)
+### 📱 [QR Code Attendance System](https://github.com/Johnnykeyz/QR_Code_Attendance_Camera)
 *Collaborative project with Adewunmi Jesusegun*
 
 Built for the Department of Computer Science, Caleb University.
@@ -111,7 +111,7 @@ Built for the Department of Computer Science, Caleb University.
 
 ---
 
-### 💰 [Personal Expense Tracker (PET)](https://github.com/johnnykeyz/expense-tracker)
+### 💰 [Personal Expense Tracker (PET)](https://github.com/johnnykeyz/expense_tracker)
 An elegant financial management application with AI-powered insights.
 
 **Features:**
