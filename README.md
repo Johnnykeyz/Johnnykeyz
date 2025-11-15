@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-adebule)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebulejohnfav@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github)](https://github.com/yourusername)
+  [![GitHub followers](https://img.shields.io/github/followers/johnnykeyz?style=for-the-badge&logo=github)](https://github.com/johnnykeyz)
   
 </div>
 
@@ -20,7 +20,7 @@ I'm a passionate **Software Developer** from Nigeria, specializing in building f
 - 🌱 Learning **Machine Learning** and **AI integration**
 - 👯 Open to collaborate on **innovative web projects**
 - 💡 Interested in **productivity tools**, **data visualization**, and **automation**
-- 🎙️ Side hustle: **Voiceover artist** (commercials, eLearning, kids' cartoons)
+
 - 📍 Based in **Nigeria**
 
 ---
@@ -76,20 +76,12 @@ I'm a passionate **Software Developer** from Nigeria, specializing in building f
 
 ## 💼 Featured Projects
 
-### 🔍 [Caleb News Verification System](https://github.com/yourusername/caleb-news-verification)
-A comprehensive web platform designed for students to access and verify news authenticity.
-
-**Features:**
-- 📰 Latest news uploaded by admin
-- 🔎 Advanced search functionality
-- ✅ Real or fake news verification system
-- 🎨 Clean, intuitive user interface
 
 **Tech Stack:** `PHP` `MySQL` `JavaScript` `HTML/CSS`
 
 ---
 
-### 📊 [Goal Tracking & Scoreboard System](https://github.com/yourusername/goal-tracking-system)
+### 📊 [Goal Tracking & Scoreboard System](https://github.com/johnnykeyz/ScoreBoard)
 A productivity powerhouse that gamifies goal achievement across departments.
 
 **Features:**
@@ -119,7 +111,7 @@ Built for the Department of Computer Science, Caleb University.
 
 ---
 
-### 💰 [Personal Expense Tracker (PET)](https://github.com/yourusername/personal-expense-tracker)
+### 💰 [Personal Expense Tracker (PET)](https://github.com/johnnykeyz/expense-tracker)
 An elegant financial management application with AI-powered insights.
 
 **Features:**
@@ -137,11 +129,11 @@ An elegant financial management application with AI-powered insights.
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnnykeyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnnykeyz&theme=tokyonight&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnykeyz&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -165,7 +157,7 @@ I'm always excited to collaborate on innovative projects, discuss technology, or
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-adebule)
   [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adebulejohnfav@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnnykeyz)
   
 </div>
 
@@ -184,8 +176,8 @@ I'm always excited to collaborate on innovative projects, discuss technology, or
   
   ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=johnnykeyz&color=blueviolet&style=for-the-badge)
   
-  ⭐️ From [Adebule John](https://github.com/yourusername)
+  ⭐️ From [Adebule John](https://github.com/johnnykeyz)
   
 </div>
