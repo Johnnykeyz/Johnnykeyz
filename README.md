@@ -46,7 +46,7 @@ I'm a passionate **Software Developer** from Nigeria, specializing in building f
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC_Architecture-FF6C37?style=for-the-badge&logo=architecture&logoColor=white)
+
 
 </details>
 
@@ -89,7 +89,7 @@ A productivity powerhouse that gamifies goal achievement across departments.
 - 📅 Daily/Weekly/Monthly/Yearly tracking
 - 📈 Dynamic interactive graphs and charts
 - ⚡ Real-time updates with AJAX/Fetch
-- 🏗️ MVC architecture for scalability
+
 
 **Tech Stack:** `PHP` `MySQL` `JavaScript` `Chart.js` `AJAX`
 
@@ -145,7 +145,7 @@ An elegant financial management application with AI-powered insights.
 - 📚 Deepening my knowledge in Machine Learning algorithms
 - 🌐 Contributing to open-source projects
 - 💼 Expanding my portfolio with innovative solutions
-- 🎙️ Growing my voiceover career in creative spaces
+
 
 ---
 
